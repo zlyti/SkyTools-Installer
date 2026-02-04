@@ -27,10 +27,20 @@ function Get-MillenniumPython {
         if (Test-Path $c) { return $c }
     }
     
-    # Try to find via registry if possible, or fallback to standard python if added to PATH (less likely for Millennium but possible)
+    # Try to find via registry if possible, or fallback to standard python if added to PATH
     try {
         $sysPython = (Get-Command python -ErrorAction SilentlyContinue).Source
-        if ($sysPython) { return $sysPython }
+        # FIX: Explicitly ignore WindowsApps shim which causes errors
+        if ($sysPython -and $sysPython -notlike "*WindowsApps*") { 
+            # Double check with version command
+            try {
+                $verification = & $sysPython --version 2>&1
+                if ($LASTEXITCODE -eq 0 -and $verification -match "^Python \d") {
+                    return $sysPython 
+                }
+            }
+            catch {}
+        }
     }
     catch {}
 
