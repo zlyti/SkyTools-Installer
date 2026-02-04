@@ -612,7 +612,9 @@ if __name__ == '__main__':
     foreach ($jsFile in $jsFiles) {
         $txt = [System.IO.File]::ReadAllText($jsFile.FullName, $utf8)
         # Force any variation of SkyTools/LuaTools in callServerMethod to be 'luatools'
-        $txtFixed = $txt -replace "Millennium.callServerMethod\(\s*['`""](SkyTools | LuaTools)['`""]", "Millennium.callServerMethod('luatools'"
+        # Simplified regex to avoid escaping hell issues with Invoke-Expression
+        $txtFixed = $txt -replace "Millennium.callServerMethod\(\s*'SkyTools'", "Millennium.callServerMethod('luatools'"
+        $txtFixed = $txtFixed -replace 'Millennium.callServerMethod\(\s*"SkyTools"', "Millennium.callServerMethod('luatools'"
 
         # DEBUG FIX: Inject better error handling in JS to see WHY it fails
         # Finds the .catch block for CheckForFixes and adds the error message to the alert
