@@ -552,6 +552,20 @@ if __name__ == '__main__':
     # FIX: Install Dependencies (httpx, requests)
     Log "INFO" "Checking Python dependencies..."
     $pyPath = Get-MillenniumPython -SteamPath $steam
+    if (-not $pyPath) {
+        Log "WARN" "Python not found. SkyTools requires Python."
+        Log "INFO" "Attempting to install Python via Winget..."
+        try {
+            winget install -e --id Python.Python.3.11 --accept-package-agreements --accept-source-agreements
+            # Refresh path
+            $env:Path = [System.Environment]::GetEnvironmentVariable("Path", "Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path", "User")
+            $pyPath = Get-MillenniumPython -SteamPath $steam
+        }
+        catch {
+            Log "ERR" "Winget failed. Please install Python manually from python.org"
+        }
+    }
+
     if ($pyPath) {
         Log "INFO" "Found Python at: $pyPath"
         try {
@@ -568,7 +582,8 @@ if __name__ == '__main__':
         }
     }
     else {
-        Log "WARN" "Could not find Millennium Python to install dependencies!"
+        Log "ERR" "Could not find Millennium Python to install dependencies!"
+        Write-Host "Please install Python 3.11 from python.org and check 'Add to PATH' during installation." -ForegroundColor Red
     }
 
     # 4. FINAL ENFORCEMENT: Robustly fix plugin.json and JS IPC calls
