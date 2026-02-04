@@ -112,8 +112,8 @@ function Activate-License {
 Log "WARN" "Installing SkyTools (Safe Version)"
 Write-Host
 
-# LICENSE CHECK
-$licenseFile = "skytools_license.key"
+# LICENSE CHECK (Stored in Steam folder to avoid permission issues in System32)
+$licenseFile = Join-Path $steam "skytools_license.key"
 $validLicense = $false
 
 if (Test-Path $licenseFile) {
