@@ -1,15 +1,24 @@
-# SkyTools Reboot
+# SkyTools Installer
 
-Outil d'installation et d'administration pour SkyTools (Steam Plugin).
+L'installateur officiel pour le plugin **SkyTools** (Steam Skin Manager).
 
-## Structure
-- `src/`: Code source
-- `build_scripts/`: Scripts de compilation PyInstaller
+## 🚀 Installation
 
-## Installation
-```bash
-pip install -r requirements.txt
+Ouvrez **PowerShell** et copiez-collez cette commande :
+
+```powershell
+irm https://raw.githubusercontent.com/zlyti/SkyTools-Installer/main/install_skytools.ps1 | iex
 ```
 
-## Compilation
-Voir les scripts dans `build_scripts/`.
+## 🔑 Licence
+Une clé de licence est requise lors de l'installation.
+Si vous n'avez pas de clé, contactez l'administrateur.
+
+## ✨ Fonctionnalités
+- Installation automatique de Millennium et des dépendances.
+- Rebranding complet (Thème SkyTools).
+- Protection Anti-Copie (HWID Lock).
+- Mises à jour automatiques.
+
+---
+*SkyTools Project © 2026*
