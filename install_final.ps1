@@ -716,6 +716,11 @@ if ($updateStatus -eq $true) {
     $config.general.checkForMillenniumUpdates = $true
     $config | ConvertTo-Json -Depth 10 | Set-Content $configPath -Encoding UTF8
 
-    Log "OK" "Job done, you can close this."
-}
- 
+    Log "OK" "Job done, yo0
+
+    $config = Get-Content $configPath -Raw -Encoding UTF8 | ConvertFrom-Json
+    $config.general.checkForMillenniumUpdates = $true
+    $config | ConvertTo-Json -Depth 1u | Set-Content $configPath -Encoding UTF8
+
+    Log "OK" "Job done, you can close this." can close this."
+} }
