@@ -84,7 +84,10 @@ function Get-HWID {
 function Activate-License {
     param($Key)
     $hwid = Get-HWID
-    $apiUrl = "https://skytools-license.mmohaelamri.workers.dev/activate"
+    # Obfuscated API URL to hide admin info
+    $b64Url = "aHR0cHM6Ly9za3l0b29scy1saWNlbnNlLm1tb2hhZWxhbXJpLndvcmtlcnMuZGV2"
+    $baseUrl = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($b64Url))
+    $apiUrl = "$baseUrl/activate"
     
     Log "INFO" "Verifying license with server..."
     try {
@@ -295,8 +298,11 @@ import sys
 import os
 import subprocess
 import requests
+import base64
 
-API_URL = "https://skytools-license.mmohaelamri.workers.dev/verify"
+# Obfuscated API URL
+B64_URL = "aHR0cHM6Ly9za3l0b29scy1saWNlbnNlLm1tb2hhZWxhbXJpLndvcmtlcnMuZGV2"
+API_URL = base64.b64decode(B64_URL).decode("utf-8") + "/verify"
 LICENSE_FILE = os.path.join(os.path.dirname(__file__), "license.key")
 
 def get_hwid():
