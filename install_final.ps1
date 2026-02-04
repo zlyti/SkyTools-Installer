@@ -718,3 +718,4 @@ if ($updateStatus -eq $true) {
 
     Log "OK" "Job done, you can close this."
 }
+ 
