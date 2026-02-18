@@ -3,5 +3,14 @@ dist/
 build/
 *.spec
 *.pyc
+
+# Local Data
 .skytools_license
 SkyTools_Keys/
+src/tools/temp_backup/
+skytools_backup.zip
+*.log
+
+# Personal Configs
+google_drive.json
+rclone.conf

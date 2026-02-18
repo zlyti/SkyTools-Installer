@@ -4,10 +4,16 @@ L'installateur officiel pour le plugin **SkyTools** (Steam Skin Manager).
 
 ## 🚀 Installation
 
+### Windows 🪟
 Ouvrez **PowerShell** et copiez-collez cette commande :
-
 ```powershell
 irm https://raw.githubusercontent.com/zlyti/SkyTools-Installer/master/install_SkyTools.ps1 | iex
+```
+
+### Linux 🐧 (Steamos / Deck)
+Ouvrez un terminal et copiez-collez cette commande :
+```bash
+curl -sL https://raw.githubusercontent.com/zlyti/SkyTools-Installer/master/install_SkyTools.sh | bash
 ```
 
 ## 🔑 Licence
