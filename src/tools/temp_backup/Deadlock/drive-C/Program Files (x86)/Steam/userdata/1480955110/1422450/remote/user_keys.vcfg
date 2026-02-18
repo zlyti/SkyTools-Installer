@@ -1,7 +1,0 @@
-"config"
-{
-	"bindings"
-	{
-		"F7"		"toggleconsole"
-	}
-}

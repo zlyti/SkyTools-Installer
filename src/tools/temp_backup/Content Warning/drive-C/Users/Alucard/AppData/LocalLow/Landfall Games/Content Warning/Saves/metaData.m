@@ -1,1 +1,0 @@
-SerializedMetaProgression, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|{"MetaCoins":-1316423460,"UnlockedHats":[0,27,6,3,30,19,24,26,1,12],"UnlockedIslandUpgrades":[0,4,2]}

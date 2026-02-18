@@ -1,7 +1,0 @@
-"gamedepotsystem"
-{
-	"hl2"		"1"
-	"cstrike"		"1"
-	"tf"		"1"
-	"portal2"		"1"
-}
