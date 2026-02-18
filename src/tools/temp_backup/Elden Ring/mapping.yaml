@@ -1,0 +1,18 @@
+---
+name: Elden Ring
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-02-18T09:07:55.049244400Z"
+    os: windows
+    files:
+      "C:/Users/Alucard/AppData/Roaming/EldenRing/76561199441220838/ER0000.sl2":
+        hash: 15ffe8f06d0324dd41f3da16f388fc5b633b5890
+        size: 28967888
+      "C:/Users/Alucard/AppData/Roaming/EldenRing/76561199441220838/steam_autocloud.vdf":
+        hash: f1a3da2ead9bdc99430d586c7f9a75f0af66b8c1
+        size: 53
+    registry:
+      hash: ~
+    children: []

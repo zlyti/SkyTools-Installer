@@ -1,0 +1,270 @@
+---
+name: Cyberpunk 2077
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-02-18T09:07:51.546435600Z"
+    os: windows
+    files:
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-0/metadata.9.json":
+        hash: 6debc074e5fcde7a6540d80c39174e7c022a1340
+        size: 4044
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-0/sav.dat":
+        hash: 015023a93f0896e68403f6d3e88f5a8ef012b0fe
+        size: 4064025
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-0/screenshot.png":
+        hash: 89134e457e6ce8b8561a2bb5baeadd8a19fb6f19
+        size: 143782
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-1/metadata.9.json":
+        hash: 91cf4c4052b91166de321978434d4ac941a528b3
+        size: 4035
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-1/sav.dat":
+        hash: 51eb9994aed5cc75f01b829fc95d15917e708cf9
+        size: 4014620
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-1/screenshot.png":
+        hash: 8468460f233fa6c11c6cd204d79be3257eb6ad48
+        size: 153716
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-10/metadata.9.json":
+        hash: fd3578c0e605b18aaa01f62146b1a97ebd069e6e
+        size: 4154
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-10/sav.dat":
+        hash: 0bf87ce8811eb86fbb13cad4a9e3c473ba565e0c
+        size: 3930491
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-10/screenshot.png":
+        hash: 6a663b7739ff5582c8de97b5253efe4394b47632
+        size: 74314
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-11/metadata.9.json":
+        hash: e1d72b871b1713dc83b577617f7e7e4bd73abf1c
+        size: 4148
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-11/sav.dat":
+        hash: 671de7b0d3130c8fd58f4343264b0e9a119c60bb
+        size: 3941663
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-11/screenshot.png":
+        hash: ee38ce2a2e0ef90632cf0f714bac893f4d3641b2
+        size: 126210
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-12/metadata.9.json":
+        hash: 8eade75a56b431547f2821b94e9ffadecaf96f97
+        size: 4153
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-12/sav.dat":
+        hash: a4044b280dcd043e7c3764178c7a3d6a26640c7a
+        size: 3935864
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-12/screenshot.png":
+        hash: e19ba24c1b033e07dae4492dfb95937dcb476d95
+        size: 123084
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-13/metadata.9.json":
+        hash: 72aae9b97c94f385515ea5309e8fb914dd03dcb4
+        size: 4188
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-13/sav.dat":
+        hash: 97824a58f9f959abe6125b7ba014b05a0bae44fb
+        size: 3946125
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-13/screenshot.png":
+        hash: 5470d9133aafd50702f100de551f1883da56c4d7
+        size: 78513
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-14/metadata.9.json":
+        hash: 86138113d358516bb257864ebb0f8c93a140dbd5
+        size: 4212
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-14/sav.dat":
+        hash: 1b1fd1eddd2c841f10acd736d99ede5bd16a3c2f
+        size: 3987186
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-14/screenshot.png":
+        hash: 8bbac59157e15dd2429f4f802aa44a93d4dd4e22
+        size: 46579
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-15/metadata.9.json":
+        hash: 9377502fd71691144c05aa53e657376c5c450d26
+        size: 4213
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-15/sav.dat":
+        hash: fe19c934100ba274c2d0a9547e63f37155c32f66
+        size: 3974598
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-15/screenshot.png":
+        hash: ab81d08637f31466e235e436a09dfc44dc4047b5
+        size: 81332
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-16/metadata.9.json":
+        hash: c3f43bbc82117784c3a1236844ce97df4338eb44
+        size: 4218
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-16/sav.dat":
+        hash: 3d81ef14471e6cdf0f718ec771db44864bf56654
+        size: 3979663
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-16/screenshot.png":
+        hash: a7dc2e37e5729f90a02aacc94149dedb31995af4
+        size: 158362
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-17/metadata.9.json":
+        hash: 5223826989838eb479dc46ee85e2cdb54f9b7c46
+        size: 4224
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-17/sav.dat":
+        hash: 7c3f306220e3026c764a2297c91f36a6c73dfcbd
+        size: 4002271
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-17/screenshot.png":
+        hash: 4fa1e5e9529eb5cb231c58c3e424cd20986d276a
+        size: 122447
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-18/metadata.9.json":
+        hash: bdfeb8c0bad6220524252674471ed514b607a555
+        size: 4209
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-18/sav.dat":
+        hash: 9fef8b70e51dd8445849d16277c9b6d5710abebb
+        size: 3993887
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-18/screenshot.png":
+        hash: b5b6abb3ca1395a9173539865880ce597263f2d0
+        size: 158061
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-19/metadata.9.json":
+        hash: c19afbae9857bf1a8f203d79c3fb9d160450907e
+        size: 4045
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-19/sav.dat":
+        hash: 38e91bd729262fc58ea39eca10e344cfd85edce2
+        size: 3980999
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-19/screenshot.png":
+        hash: c6eabb3b800d53ff2285b421a42a6432a47d75d9
+        size: 142088
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-2/metadata.9.json":
+        hash: a1995a51540c55265c66609f9b1f56d2df358818
+        size: 4040
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-2/sav.dat":
+        hash: 7c02242b941864b1fb868ff4fb082b869aef8eb1
+        size: 3908582
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-2/screenshot.png":
+        hash: 4ee35a45636d09eeadc1605c7aca5ca9e8210d3f
+        size: 101645
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-3/metadata.9.json":
+        hash: 30c8db045833bb8432a133740d7c0fbbefcc8a45
+        size: 4051
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-3/sav.dat":
+        hash: 4cbc8fde48872d0f5affa4463174c7b6cd0c01b7
+        size: 3913819
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-3/screenshot.png":
+        hash: 275ee7b23d4db0846c58be844533137855d41e6e
+        size: 150585
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-4/metadata.9.json":
+        hash: a74172f24c587f7aefabab89547048250f153112
+        size: 4040
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-4/sav.dat":
+        hash: 1aacc3a9b7929db424c7bcf1708ac720b243ec09
+        size: 3853371
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-4/screenshot.png":
+        hash: 7e8fe485569c097014db1b16dfa7a0f0d8f4e073
+        size: 102737
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-5/metadata.9.json":
+        hash: 30bbbb9bfc5c03e5f413a7ed8b0a8b26e1165b72
+        size: 4047
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-5/sav.dat":
+        hash: d0db40e1edec224b514c0b77b3feba2b9739fec0
+        size: 3861638
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-5/screenshot.png":
+        hash: 1c8b5752de9fe970dfeb6cea50b59d6ff9b610ff
+        size: 149508
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-6/metadata.9.json":
+        hash: b02d4bc953893f41239b4ac6d7c6facf2c629d25
+        size: 4132
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-6/sav.dat":
+        hash: b95571963a2d40af41b2d49b56771a89d2a552c2
+        size: 3894263
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-6/screenshot.png":
+        hash: c64d1458ee2ab118a5e5d73177c117aeaadfa48e
+        size: 136790
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-7/metadata.9.json":
+        hash: 4459d848f4f8987200603c6be7edb134647b5d9f
+        size: 4125
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-7/sav.dat":
+        hash: 70dcc8f0cdacd711302602b2e3a8c532988cb0b1
+        size: 3882773
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-7/screenshot.png":
+        hash: f76824b37d4f99d744f0c5fa24e6b99690fe1a63
+        size: 167030
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-8/metadata.9.json":
+        hash: 426850959531fdef32a70ca8485d794338d73ce7
+        size: 4125
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-8/sav.dat":
+        hash: 8226b9a0b5808b23b7243e8769955bf945b14cd0
+        size: 3881927
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-8/screenshot.png":
+        hash: 4a501af7f998f882b9347251a3c67b7b429a8b33
+        size: 122375
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-9/metadata.9.json":
+        hash: eacab949b3e11b321fba1701cfbd7d5a17357bda
+        size: 4147
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-9/sav.dat":
+        hash: 6ab81766de3fd0b5186e43ae1788eff43ff2e9a9
+        size: 3873272
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-9/screenshot.png":
+        hash: 328dc1b745fafd8755b59b25b4c709f070156439
+        size: 151068
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/EndGameSave-0/metadata.9.json":
+        hash: 0e77c7e0646d7678278df582856b109f6b65ee56
+        size: 4048
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/EndGameSave-0/sav.dat":
+        hash: 3a2e65f1e558095a37f76276327ee43b7abd54ee
+        size: 3922505
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/EndGameSave-0/screenshot.png":
+        hash: a490d5a7635fe2027f0e54087d21f1956d6c41e5
+        size: 1004
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/EndGameSave-1/metadata.9.json":
+        hash: ec5a3ed9caf5de672f8d1a4d716fe2de37143132
+        size: 4129
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/EndGameSave-1/sav.dat":
+        hash: 702815f76ccaa1b376964d647c26124d6554b50c
+        size: 3986206
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/EndGameSave-1/screenshot.png":
+        hash: a490d5a7635fe2027f0e54087d21f1956d6c41e5
+        size: 1004
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/ManualSave-0/metadata.9.json":
+        hash: 0da75a7e2c937534db70e3984290a6692c935717
+        size: 4041
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/ManualSave-0/sav.dat":
+        hash: 6e64840345f10238b5a4c4317e32da4dba652b8d
+        size: 3915190
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/ManualSave-0/screenshot.png":
+        hash: 477665708a8afe78562b65e54c8d21de4a3a0421
+        size: 182824
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/PointOfNoReturnSave-0/metadata.9.json":
+        hash: 8dd8f0f095af638b1a2d1c1b1a3c330522b88ef8
+        size: 3949
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/PointOfNoReturnSave-0/sav.dat":
+        hash: f14354264d408584e54bbc7d947786fc3a38feda
+        size: 3709291
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/PointOfNoReturnSave-0/screenshot.png":
+        hash: 1d0d92408d1ca569a6c2d675f01ce8e22d7dd719
+        size: 160773
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/PointOfNoReturnSave-1/metadata.9.json":
+        hash: caf59b9ed4383f484444607f0ba0beac43310c0f
+        size: 4002
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/PointOfNoReturnSave-1/sav.dat":
+        hash: a58b873c81abff010ea534e83fa8a5e5f338f70b
+        size: 4148529
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/PointOfNoReturnSave-1/screenshot.png":
+        hash: 302f9cb6859066a056e7778a436e9b46a8758558
+        size: 137758
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/PointOfNoReturnSave-2/metadata.9.json":
+        hash: e264ae6d5402c8c9b988a981f02380911fe6b643
+        size: 4043
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/PointOfNoReturnSave-2/sav.dat":
+        hash: 143c1693c6759116334b13ed8acc57ee1f7795c7
+        size: 4045959
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/PointOfNoReturnSave-2/screenshot.png":
+        hash: c935f503b60b66f2564e16ccb9cb44f411239e03
+        size: 142894
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/PointOfNoReturnSave-3/metadata.9.json":
+        hash: b9c6b5901fff023265e7e64c7938d8497624c83d
+        size: 4043
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/PointOfNoReturnSave-3/sav.dat":
+        hash: 0b854fa35942b7448555b33a7e72edc7b274b513
+        size: 3993190
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/PointOfNoReturnSave-3/screenshot.png":
+        hash: 9b3ead80ac9085d0f5922b700a74e02a046a3e0f
+        size: 150082
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-0/metadata.9.json":
+        hash: 12e952be5b8ac7803c4cefd25a0f2397a3e2d2a4
+        size: 2700
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-0/sav.dat":
+        hash: 8c2a40f3d47cd0f2355ab9224414385929384691
+        size: 1999043
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-0/screenshot.png":
+        hash: 9276fb4ecfbea77a431ddc94ae89a083828a04a8
+        size: 161931
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/steam_autocloud.vdf":
+        hash: f1a3da2ead9bdc99430d586c7f9a75f0af66b8c1
+        size: 53
+      "C:/Users/Alucard/Saved Games/CD Projekt Red/Cyberpunk 2077/user.gls":
+        hash: 51c6877df0df652c371bcd0fdaa7176f3c52461e
+        size: 1082
+    registry:
+      hash: ~
+    children: []

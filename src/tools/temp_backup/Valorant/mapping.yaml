@@ -1,0 +1,36 @@
+---
+name: Valorant
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-02-18T09:08:05.369372Z"
+    os: windows
+    files:
+      "C:/Users/Alucard/AppData/Local/VALORANT/Saved/Config/75a3f75f-750d-511f-9d9a-8013c072adbf-eu/Windows/RiotUserSettings.ini":
+        hash: e00f98d7935d28f0228f1179a4bdb7fb4cbede03
+        size: 12013
+      "C:/Users/Alucard/AppData/Local/VALORANT/Saved/Config/75a3f75f-750d-511f-9d9a-8013c072adbf-eu/WindowsClient/BackupKeybinds.json":
+        hash: 47ee61229392acab79311d2a25e2f576f255b541
+        size: 1729
+      "C:/Users/Alucard/AppData/Local/VALORANT/Saved/Config/75a3f75f-750d-511f-9d9a-8013c072adbf-eu/WindowsClient/GameUserSettings.ini":
+        hash: 7e82aba8f3b029bf2ea74b6bcfd7bb6d80f6e51a
+        size: 1409
+      "C:/Users/Alucard/AppData/Local/VALORANT/Saved/Config/CrashReportClient/UECC-Windows-A9D83FD04463B00047E39AB9ABADE53F/CrashReportClient.ini":
+        hash: ea18c46269197c22c5fbe4d110ca0cdf297f1cb1
+        size: 195
+      "C:/Users/Alucard/AppData/Local/VALORANT/Saved/Config/CrashReportClient/UECC-Windows-BCC50CF74EA8CF3A9878D69092367B3F/CrashReportClient.ini":
+        hash: ea18c46269197c22c5fbe4d110ca0cdf297f1cb1
+        size: 195
+      "C:/Users/Alucard/AppData/Local/VALORANT/Saved/Config/CrashReportClient/UECC-Windows-E11F3CC24D6DB240CCE7BA8780347DE5/CrashReportClient.ini":
+        hash: ea18c46269197c22c5fbe4d110ca0cdf297f1cb1
+        size: 195
+      "C:/Users/Alucard/AppData/Local/VALORANT/Saved/Config/WindowsClient/GameUserSettings.ini":
+        hash: 3bc60e77310f8f51d0e414bff249e19a98757a23
+        size: 1148
+      "C:/Users/Alucard/AppData/Local/VALORANT/Saved/Config/WindowsClient/RiotLocalMachine.ini":
+        hash: 23028d9e35de044af0ba41e5643366f12ad79e6f
+        size: 66
+    registry:
+      hash: ~
+    children: []

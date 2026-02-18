@@ -1,0 +1,18 @@
+---
+name: Content Warning
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-02-18T09:08:03.639634500Z"
+    os: windows
+    files:
+      "C:/Users/Alucard/AppData/LocalLow/Landfall Games/Content Warning/Saves/metaData.m":
+        hash: 33cba8dd1d4248767a84164aef2ad9d0081bf51c
+        size: 199
+      "C:/Users/Alucard/AppData/LocalLow/Landfall Games/Content Warning/Saves/steam_autocloud.vdf":
+        hash: f1a3da2ead9bdc99430d586c7f9a75f0af66b8c1
+        size: 53
+    registry:
+      hash: ~
+    children: []

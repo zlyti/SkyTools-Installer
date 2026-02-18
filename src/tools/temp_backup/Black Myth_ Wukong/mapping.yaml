@@ -1,0 +1,121 @@
+---
+name: "Black Myth: Wukong"
+drives:
+  drive-C: "C:"
+  drive-D: "D:"
+backups:
+  - name: "."
+    when: "2026-02-18T09:07:51.517299600Z"
+    os: windows
+    files:
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/ApexDestruction.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/Compat.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/ConcertSyncCore.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/ControlRig.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/DataprepEditor.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/DeviceProfiles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/EditorScriptingUtilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/Engine.ini":
+        hash: 0716a9c3e54e8a04a8b9e077c26f7efd44e8dff0
+        size: 5111
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/FullBodyIK.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/Game.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/GameUserSettings.ini":
+        hash: 8a8de3289d1817cfa33935b40f33fd0267dd386b
+        size: 2940
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/GameplayTags.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/HairStrands.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/Hardware.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/Input.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/Niagara.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/NiagaraFluids.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/OSC.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/PCG.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/Paper2D.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/RuntimeOptions.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/SMSystem.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/Scalability.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/StructUtils.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/Synthesis.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/VariantManagerContent.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/Alucard/AppData/Local/b1/Saved/Config/Windows/Wwise.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "D:/SteamLibrary/steamapps/common/BlackMythWukong/b1/Saved/SaveGames/76561199441220838/ArchiveSaveFile.1.sav":
+        hash: e5ddf507f9ec686a0fdbce1db8202dd1cb73ad88
+        size: 1810673
+      "D:/SteamLibrary/steamapps/common/BlackMythWukong/b1/Saved/SaveGames/76561199441220838/ShareArchiveSaveFile.sav":
+        hash: 7f43fe36f8de8abcdc24c33559c45833489a8c4b
+        size: 104
+      "D:/SteamLibrary/steamapps/common/BlackMythWukong/b1/Saved/SaveGames/76561199441220838/UserSettingSaveGame.sav":
+        hash: e77921993e8de71f921049329193cdbb537812fc
+        size: 958
+      "D:/SteamLibrary/steamapps/common/BlackMythWukong/b1/Saved/SaveGamesBackup/01RealtimeBackup/2026-01-25 19-21-40/ArchiveSaveFile.1.sav":
+        hash: 8f41fea0350c77d39a1c1b903ec9c19e283b595d
+        size: 1812959
+      "D:/SteamLibrary/steamapps/common/BlackMythWukong/b1/Saved/SaveGamesBackup/01RealtimeBackup/2026-01-25 19-21-40/ShareArchiveSaveFile.sav":
+        hash: 7f43fe36f8de8abcdc24c33559c45833489a8c4b
+        size: 104
+      "D:/SteamLibrary/steamapps/common/BlackMythWukong/b1/Saved/SaveGamesBackup/01RealtimeBackup/2026-01-25 19-21-40/UserSettingSaveGame.sav":
+        hash: e77921993e8de71f921049329193cdbb537812fc
+        size: 958
+      "D:/SteamLibrary/steamapps/common/BlackMythWukong/b1/Saved/SaveGamesBackup/01RealtimeBackup/2026-01-25 19-35-41/ArchiveSaveFile.1.sav":
+        hash: 98e0982972870a6f5b8d958beafac61b4df6972e
+        size: 1810380
+      "D:/SteamLibrary/steamapps/common/BlackMythWukong/b1/Saved/SaveGamesBackup/01RealtimeBackup/2026-01-25 19-35-41/ShareArchiveSaveFile.sav":
+        hash: 7f43fe36f8de8abcdc24c33559c45833489a8c4b
+        size: 104
+      "D:/SteamLibrary/steamapps/common/BlackMythWukong/b1/Saved/SaveGamesBackup/01RealtimeBackup/2026-01-25 19-35-41/UserSettingSaveGame.sav":
+        hash: e77921993e8de71f921049329193cdbb537812fc
+        size: 958
+    registry:
+      hash: ~
+    children: []

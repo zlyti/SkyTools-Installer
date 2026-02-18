@@ -1,0 +1,400 @@
+"KeyBindings"
+{
+	"Name"		"DEFAULT"
+	"Version"		"1"
+	"AlgorithmicUpdateVersion"		"5"
+	"Keys"
+	{
+		"AbilityMelee"
+		{
+			"Key"		"Q"
+		}
+		"Ability1"
+		{
+			"Key"		"1"
+		}
+		"Ability2"
+		{
+			"Key"		"2"
+		}
+		"Ability3"
+		{
+			"Key"		"3"
+		}
+		"Ability4"
+		{
+			"Key"		"4"
+		}
+		"Item1"
+		{
+			"Key"		"Z"
+		}
+		"Item2"
+		{
+			"Key"		"X"
+		}
+		"Item3"
+		{
+			"Key"		"C"
+		}
+		"Item4"
+		{
+			"Key"		"V"
+		}
+		"Mantle"
+		{
+			"Key"		"SPACE"
+		}
+		"OpenHeroSheet"
+		{
+			"Key"		"B"
+		}
+		"PurchaseQuickbuy"
+		{
+			"Key"		"G"
+		}
+		"Roll"
+		{
+			"Key"		"SHIFT"
+		}
+		"Crouch"
+		{
+			"Key"		"CTRL"
+		}
+		"MoveUp"
+		{
+			"Key"		"SHIFT"
+		}
+		"MoveDown"
+		{
+			"Key"		"CTRL"
+		}
+		"PushToTalk"
+		{
+			"Key"		"T"
+		}
+		"PushToTalkParty"
+		{
+			"Key"		"NONE"
+		}
+		"Scoreboard"
+		{
+			"Key"		"TAB"
+		}
+		"Reload"
+		{
+			"Key"		"R"
+		}
+		"ExtraInfo"
+		{
+			"Key"		"ALT"
+		}
+		"AltCast"
+		{
+			"Key"		"MOUSE3"
+		}
+		"ReplayDeath"
+		{
+			"Key"		"R"
+		}
+		"MoveForward"
+		{
+			"Key"		"W"
+		}
+		"MoveBackwards"
+		{
+			"Key"		"S"
+		}
+		"MoveLeft"
+		{
+			"Key"		"A"
+		}
+		"MoveRight"
+		{
+			"Key"		"D"
+		}
+		"Attack"
+		{
+			"Key"		"MOUSE1"
+		}
+		"ADS"
+		{
+			"Key"		"MOUSE2"
+		}
+		"ResetCamera"
+		{
+			"Key"		"NONE"
+		}
+		"Chat"
+		{
+			"Key"		"ENTER"
+			"Modifier"		"SHIFT"
+		}
+		"ChatTeam"
+		{
+			"Key"		"ENTER"
+		}
+		"Ping"
+		{
+			"Key"		"MOUSE3"
+		}
+		"MinimapZoomIn"
+		{
+			"Key"		"MWHEELUP"
+			"Modifier"		"ALT"
+		}
+		"MinimapZoomOut"
+		{
+			"Key"		"MWHEELDOWN"
+			"Modifier"		"ALT"
+		}
+		"MouseWheel"
+		{
+			"Key"		"Y"
+		}
+		"HeldItem"
+		{
+			"Key"		"F"
+		}
+		"SwitchPlayerCam1"
+		{
+			"Key"		"F1"
+		}
+		"SwitchPlayerCam2"
+		{
+			"Key"		"F2"
+		}
+		"SwitchPlayerCam3"
+		{
+			"Key"		"F3"
+		}
+		"SwitchPlayerCam4"
+		{
+			"Key"		"F4"
+		}
+		"SwitchPlayerCam5"
+		{
+			"Key"		"F5"
+		}
+		"AbilityUpgrade1"
+		{
+			"Key"		"1"
+			"Modifier"		"ALT"
+		}
+		"AbilityUpgrade2"
+		{
+			"Key"		"2"
+			"Modifier"		"ALT"
+		}
+		"AbilityUpgrade3"
+		{
+			"Key"		"3"
+			"Modifier"		"ALT"
+		}
+		"AbilityUpgrade4"
+		{
+			"Key"		"4"
+			"Modifier"		"ALT"
+		}
+		"ItemQuickCastMode"
+		{
+			"Key"		"0"
+		}
+		"AbilityQuickCastMode1"
+		{
+			"Key"		"0"
+		}
+		"AbilityQuickCastMode2"
+		{
+			"Key"		"0"
+		}
+		"AbilityQuickCastMode3"
+		{
+			"Key"		"0"
+		}
+		"AbilityQuickCastMode4"
+		{
+			"Key"		"0"
+		}
+		"PingOption1"
+		{
+			"Key"		"NONE"
+		}
+		"PingOption2"
+		{
+			"Key"		"NONE"
+		}
+		"PingOption3"
+		{
+			"Key"		"NONE"
+		}
+		"PingOption4"
+		{
+			"Key"		"NONE"
+		}
+		"PingOption5"
+		{
+			"Key"		"NONE"
+		}
+		"ToggleSpectatorCamera"
+		{
+			"Key"		"C"
+		}
+		"SpectatorToggleFreeCursor"
+		{
+			"Key"		"J"
+		}
+		"ToggleSpectatorTeam"
+		{
+			"Key"		"SPACE"
+		}
+		"SpectatorNextTarget"
+		{
+			"Key"		"MOUSE1"
+		}
+		"SpectatorPrevTarget"
+		{
+			"Key"		"MOUSE2"
+		}
+		"SpectatorChase"
+		{
+			"Key"		"MWHEELDOWN"
+		}
+		"SpectatorInEye"
+		{
+			"Key"		"MWHEELUP"
+		}
+		"SpectatorFlyUp"
+		{
+			"Key"		"SHIFT"
+		}
+		"SpectatorFlyDown"
+		{
+			"Key"		"CTRL"
+		}
+		"SpectatorFOWTeamBoth"
+		{
+			"Key"		"F1"
+		}
+		"SpectatorFOWTeamTarget"
+		{
+			"Key"		"F2"
+		}
+		"SpectatorFOWTeamAmber"
+		{
+			"Key"		"F3"
+		}
+		"SpectatorFOWTeamSapphire"
+		{
+			"Key"		"F4"
+		}
+		"ReplayIncreaseSpeed"
+		{
+			"Key"		"="
+		}
+		"ReplayDecreaseSpeed"
+		{
+			"Key"		"-"
+		}
+		"ReplayTogglePause"
+		{
+			"Key"		"P"
+		}
+		"DevConsole"
+		{
+			"Key"		"F7"
+		}
+		"Pause"
+		{
+			"Key"		"P"
+		}
+		"ToggleMute"
+		{
+			"Key"		"NONE"
+		}
+		"Zipline"
+		{
+			"Key"		"SPACE"
+		}
+		"CancelAbility"
+		{
+			"Key"		"SPACE"
+		}
+		"HideoutUse"
+		{
+			"Key"		"E"
+		}
+		"HideoutNews"
+		{
+			"Key"		"N"
+		}
+		"HideoutCancelMatchmaking"
+		{
+			"Key"		"C"
+		}
+		"HideoutAcceptRequest"
+		{
+			"Key"		"Z"
+		}
+		"HideoutRejectRequest"
+		{
+			"Key"		"X"
+		}
+		"HideoutSurveyOption1"
+		{
+			"Key"		"1"
+		}
+		"HideoutSurveyOption2"
+		{
+			"Key"		"2"
+		}
+		"HideoutSurveyOption3"
+		{
+			"Key"		"3"
+		}
+		"HideoutSurveyOption4"
+		{
+			"Key"		"4"
+		}
+		"HideoutSurveyOption5"
+		{
+			"Key"		"5"
+		}
+		"HideoutSurveySkip"
+		{
+			"Key"		"0"
+		}
+		"OpenMainMenu"
+		{
+			"Key"		"ESCAPE"
+		}
+		"CursorSelect"
+		{
+			"Key"		"MOUSE1"
+		}
+		"CursorContext"
+		{
+			"Key"		"MOUSE2"
+		}
+		"MenuBack"
+		{
+			"Key"		"ESCAPE"
+		}
+		"MenuUp"
+		{
+			"Key"		"UPARROW"
+		}
+		"MenuDown"
+		{
+			"Key"		"DOWNARROW"
+		}
+		"MenuLeft"
+		{
+			"Key"		"LEFTARROW"
+		}
+		"MenuRight"
+		{
+			"Key"		"RIGHTARROW"
+		}
+	}
+}

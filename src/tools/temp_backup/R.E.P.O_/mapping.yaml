@@ -1,0 +1,24 @@
+---
+name: R.E.P.O.
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-02-18T09:07:57.712374Z"
+    os: windows
+    files:
+      "C:/Users/Alucard/AppData/LocalLow/semiwork/Repo/CurrentKeyBindings.es3":
+        hash: 8cbcd12d7bce6eee9ec641eb8f3d04b490a215ef
+        size: 1445
+      "C:/Users/Alucard/AppData/LocalLow/semiwork/Repo/DefaultKeyBindings.es3":
+        hash: 84de84544a51af9b3d194575377084413e8c0a0c
+        size: 1439
+      "C:/Users/Alucard/AppData/LocalLow/semiwork/Repo/SettingsData.es3":
+        hash: 0898b6ddc2550fdbc392de2a49368cbb592ad571
+        size: 1490
+      "C:/Users/Alucard/AppData/LocalLow/semiwork/Repo/saves/REPO_SAVE_2025_12_09_01_41_11/REPO_SAVE_2025_12_09_01_41_11.es3":
+        hash: ff43b6680d57c372d1fad1fd035da641a15bdf90
+        size: 4592
+    registry:
+      hash: ae7025928f4314fefc441d203a921f2116868d2d
+    children: []

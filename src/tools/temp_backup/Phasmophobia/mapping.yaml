@@ -1,0 +1,11 @@
+---
+name: Phasmophobia
+drives: {}
+backups:
+  - name: "."
+    when: "2026-02-18T09:08:05.722108Z"
+    os: windows
+    files: {}
+    registry:
+      hash: 7841e45ec4a06ce903be3cfa9190d2855f594cc1
+    children: []

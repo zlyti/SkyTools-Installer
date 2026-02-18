@@ -1,0 +1,30 @@
+---
+name: Rise of the Tomb Raider
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-02-18T09:08:00.695448800Z"
+    os: windows
+    files:
+      "C:/Program Files (x86)/Steam/userdata/1480955110/391220/remote/lastauto.dat":
+        hash: dca129d1d838e9326ae68df450342d024fc8c501
+        size: 133923
+      "C:/Program Files (x86)/Steam/userdata/1480955110/391220/remote/lastbackup.dat":
+        hash: dca129d1d838e9326ae68df450342d024fc8c501
+        size: 133923
+      "C:/Program Files (x86)/Steam/userdata/1480955110/391220/remote/lastcamp.dat":
+        hash: 62055b2691d4c8cbbe71ae3b7cfecbefa3344b1c
+        size: 133932
+      "C:/Program Files (x86)/Steam/userdata/1480955110/391220/remote/profile.dat":
+        hash: 68f0e691a424fc3df6b68dee3fa4ed5c60eec2ce
+        size: 623
+      "C:/Program Files (x86)/Steam/userdata/1480955110/391220/remote/save1.dat":
+        hash: 92d15e0af76f19d4953b87442676d535f3b40ff3
+        size: 133926
+      "C:/Users/Alucard/Documents/Rise of the Tomb Raider/Rise of the Tomb Raider.log":
+        hash: 5e71c59e0dcb89e23258d2390bf5ff7ece72ab5c
+        size: 385233
+    registry:
+      hash: c4879ed3dceea73c2e375aab969245223ac70646
+    children: []

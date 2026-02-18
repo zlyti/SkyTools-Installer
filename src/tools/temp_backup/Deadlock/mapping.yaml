@@ -1,0 +1,30 @@
+---
+name: Deadlock
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-02-18T09:07:59.815572800Z"
+    os: windows
+    files:
+      "C:/Program Files (x86)/Steam/userdata/1480955110/1422450/remote/cfg/cached_hero_builds.kv3":
+        hash: f48b8d212f8eb807073bf3912dbe12c85e469993
+        size: 3920
+      "C:/Program Files (x86)/Steam/userdata/1480955110/1422450/remote/cfg/citadelkeys_personal.lst":
+        hash: dfe725612b7e1f17fb717e8a38248464b1642d5e
+        size: 4272
+      "C:/Program Files (x86)/Steam/userdata/1480955110/1422450/remote/cfg/pending_replay_requests.lst":
+        hash: f3729c42d2e8b8161024ac4e30276a2362ff6585
+        size: 28
+      "C:/Program Files (x86)/Steam/userdata/1480955110/1422450/remote/user_convars.vcfg":
+        hash: 44a8c34c48630a67a3ee7eac42b914006de93909
+        size: 1357
+      "C:/Program Files (x86)/Steam/userdata/1480955110/1422450/remote/user_keys.vcfg":
+        hash: dcc513247c62fda46eff47e8d4284ceffb5ad9f8
+        size: 55
+      "C:/Program Files (x86)/Steam/userdata/1480955110/1422450/remote/voice_ban.dt":
+        hash: da4aa4d7304021401a1e7e1b1cd148e856ef3143
+        size: 177
+    registry:
+      hash: ~
+    children: []

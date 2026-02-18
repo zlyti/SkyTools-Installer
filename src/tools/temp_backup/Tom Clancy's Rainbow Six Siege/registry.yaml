@@ -1,0 +1,7 @@
+---
+HKEY_CURRENT_USER:
+  "Software\\Ubisoft\\Rainbow Six - Siege":
+    AudioLanguage:
+      dword: 1
+    TextLanguage:
+      dword: 1

@@ -1,0 +1,15 @@
+---
+name: The Desolate Hope
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-02-18T09:08:00.936267800Z"
+    os: windows
+    files:
+      "C:/Program Files (x86)/Steam/steamapps/common/The Desolate Hope/tdh1.txt":
+        hash: 7ac881361a4952078a21bc3990fe46c41732bcc0
+        size: 822
+    registry:
+      hash: ~
+    children: []

@@ -1,0 +1,53 @@
+"208650"
+{
+	"ChangeNumber"		"5"
+	"OSType"		"0"
+	"BAK1Save0x0.sgd"
+	{
+		"root"		"0"
+		"size"		"2428928"
+		"localtime"		"1764950275"
+		"time"		"1764917873"
+		"remotetime"		"1764917873"
+		"sha"		"460f255a2b14a31216111c8a0918cc0116ebea4d"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"BAK1Save0x1.sgd"
+	{
+		"root"		"0"
+		"size"		"2428928"
+		"localtime"		"1764950199"
+		"time"		"1764917797"
+		"remotetime"		"1764917797"
+		"sha"		"088e26c58d53a2c0a8424cbe81961493b6303ef8"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"BAK1Save0x2.sgd"
+	{
+		"root"		"0"
+		"size"		"2428928"
+		"localtime"		"1764490030"
+		"time"		"1764457628"
+		"remotetime"		"1764457628"
+		"sha"		"5aeb0838a0aed2506d58811f6de5c9a7f1299f87"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"profile.bin"
+	{
+		"root"		"0"
+		"size"		"69"
+		"localtime"		"1764313589"
+		"time"		"1764281186"
+		"remotetime"		"1764281186"
+		"sha"		"6cd614b05cac5d8bd03f11c8c813bc887cea4f1e"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

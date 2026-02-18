@@ -1,0 +1,27 @@
+---
+name: "Mount & Blade II: Bannerlord"
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-02-18T09:07:51.097099600Z"
+    os: windows
+    files:
+      "C:/Users/Alucard/Documents/Mount and Blade II Bannerlord/Game Saves/save001.sav":
+        hash: 165daae6fd839018c676cea3f32910162977897c
+        size: 4185461
+      "C:/Users/Alucard/Documents/Mount and Blade II Bannerlord/Game Saves/saveauto1.sav":
+        hash: 77c497445b944764f55302cfe353f6da86f028a6
+        size: 11414241
+      "C:/Users/Alucard/Documents/Mount and Blade II Bannerlord/Game Saves/saveauto2.sav":
+        hash: 8374c459177c85cba6384099eccf8afc52044633
+        size: 11601263
+      "C:/Users/Alucard/Documents/Mount and Blade II Bannerlord/Game Saves/saveauto3.sav":
+        hash: 6345d175f0b94bd4c987e5bd24a61887c4da0ac3
+        size: 11610395
+      "C:/Users/Alucard/Documents/Mount and Blade II Bannerlord/Game Saves/steam_autocloud.vdf":
+        hash: f1a3da2ead9bdc99430d586c7f9a75f0af66b8c1
+        size: 53
+    registry:
+      hash: ~
+    children: []

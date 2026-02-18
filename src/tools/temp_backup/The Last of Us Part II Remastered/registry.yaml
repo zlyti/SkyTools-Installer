@@ -1,0 +1,217 @@
+---
+HKEY_CURRENT_USER:
+  "SOFTWARE\\Naughty Dog\\The Last of Us Part II":
+    ShowLauncher:
+      dword: 1
+  "SOFTWARE\\Naughty Dog\\The Last of Us Part II\\Audio":
+    DynamicRange:
+      dword: 0
+    ForceMono:
+      dword: 0
+    Latency:
+      dword: 0
+    OutputChannelMode:
+      dword: 0
+    OutputDeviceId:
+      sz: ""
+    OutputDeviceType:
+      dword: 0
+    OutputMode:
+      dword: 0
+    StereoHeadphonesAzimuths:
+      dword: 16776990
+    StereoSpeakerAzimuths:
+      dword: 16776990
+    SurroundHeadphonesAzimuths:
+      dword: 16776990
+    SurroundSpeakerAzimuths:
+      dword: 16776990
+  "SOFTWARE\\Naughty Dog\\The Last of Us Part II\\Graphics":
+    AA:
+      dword: 2
+    AmbientOcclusionQuality:
+      dword: 2
+    AntilagMode:
+      dword: 0
+    AspectRatio:
+      dword: 0
+    AsyncCompute:
+      dword: 1
+    BackgroundLevelOfDetail:
+      dword: 1
+    Bloom:
+      dword: 1
+    BouncedLighting:
+      dword: 0
+    CameraShake:
+      dword: 1000
+    CharacterLevelOfDetail:
+      dword: 1
+    CharacterTextureQuality:
+      dword: 1
+    ChromaticAbberation:
+      dword: 1000
+    Cinematic Pillarboxes:
+      dword: 1
+    Contrast:
+      dword: 500
+    DLSSG:
+      dword: 0
+    DOFMode:
+      dword: 1
+    DOFQuality:
+      dword: 1
+    DisableDriverWarn:
+      dword: 0
+    DlssPreset:
+      dword: 0
+    DynamicObjectsTextureQuality:
+      dword: 1
+    DynamicResolutionTargetFPS:
+      dword: 0
+    DynamicScreenSpaceShadows:
+      dword: 1
+    EnvironmentTextureQuality:
+      dword: 1
+    ExclusiveFullscreen:
+      dword: 0
+    FOVCorrection:
+      dword: 1000
+    FilmGrainStrength:
+      dword: 1000
+    ForcedAspectRatio:
+      dword: 0
+    ForegroundLevelOfDetail:
+      dword: 1
+    FrameGen:
+      dword: 0
+    FramerateCap:
+      dword: 360000
+    Fullscreen:
+      dword: 1
+    FullscreenHeight:
+      dword: 1440
+    FullscreenWidth:
+      dword: 2560
+    HDR:
+      dword: 0
+    HDRMaxNits:
+      dword: 417711
+    HDRPaperWhite:
+      dword: 1128792064
+    HDRPreferred:
+      dword: 1
+    HairQuality:
+      dword: 2
+    HudBrightnessMultiplier:
+      dword: 1000
+    ImageBasedLighting:
+      dword: 1
+    LensDirtIntensity:
+      dword: 1000
+    LensFlares:
+      dword: 2
+    MaxGeneratedFrame:
+      dword: 1
+    Monitor:
+      dword: 0
+    MotionBlurQuality:
+      dword: 2
+    MotionBlurScale:
+      dword: 1000
+    MultiMonitorEnabled:
+      dword: 0
+    NormalizedGammaDecodingPower:
+      dword: 500
+    ParticleDensity:
+      dword: 1
+    ParticleLighting:
+      dword: 1
+    ProcessWorkingSetSize:
+      dword: 0
+    RTCloudReflections:
+      dword: 0
+    RTReflectionsQuality:
+      dword: 2
+    ReflexMode:
+      dword: 2
+    RefractionQuality:
+      dword: 0
+    RefreshRate:
+      dword: 180
+    SSSubSurfaceScattering:
+      dword: 1
+    ScreenEffects:
+      dword: 1
+    ScreenSpaceAccuracy:
+      dword: 1
+    ScreenSpaceContactShadows:
+      dword: 2
+    ScreenSpaceDistance:
+      dword: 1
+    ScreenSpaceReflections:
+      dword: 1
+    ScreenSpaceShadows:
+      dword: 2
+    ShadowAmbientShadowsQuality:
+      dword: 1
+    ShadowDirectionalShadowDistance:
+      dword: 1
+    ShadowDirectionalShadowResolution:
+      dword: 1
+    ShadowPointlightResolution:
+      dword: 1
+    ShadowSpotlightResolution:
+      dword: 1
+    Sharpness:
+      dword: 500
+    TerrainDetail:
+      dword: 1
+    TextureFiltering:
+      dword: 2
+    UpscaleMethod:
+      dword: 1
+    UpscaleQuality:
+      dword: 2
+    UpscaleSharpness:
+      dword: 510
+    UserWindowHeight:
+      dword: 810
+    UserWindowWidth:
+      dword: 1440
+    VSync:
+      dword: 0
+    Vignette:
+      dword: 1
+    VisualEffectsTextureQuality:
+      dword: 1
+    VolumetricFogQuality:
+      dword: 1
+    WaterCaustics:
+      dword: 1
+    WindowHeight:
+      dword: 1440
+    WindowLeft:
+      dword: 240
+    WindowMaximized:
+      dword: 0
+    WindowTop:
+      dword: 135
+    WindowWidth:
+      dword: 2560
+  "SOFTWARE\\Naughty Dog\\The Last of Us Part II\\Input":
+    EnableControllerInput:
+      dword: 1
+    EnableLibScePad:
+      dword: 1
+    EnableMouseSmoothing:
+      dword: 1
+    EnableWindowsGamingInput:
+      dword: 1
+  "SOFTWARE\\Naughty Dog\\The Last of Us Part II\\UI":
+    HudScaling:
+      dword: 0
+    SubtitlesSize:
+      dword: 1
+    TextLanguage:
+      dword: 1

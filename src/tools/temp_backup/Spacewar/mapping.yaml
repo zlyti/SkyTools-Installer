@@ -1,0 +1,27 @@
+---
+name: Spacewar
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-02-18T09:07:50.945274900Z"
+    os: windows
+    files:
+      "C:/Program Files (x86)/Steam/userdata/1480955110/480/remote/Multiplayer_Slot1_difficulty":
+        hash: 45e118d0563ea8581f830f46e85b60ae714faae4
+        size: 6
+      "C:/Program Files (x86)/Steam/userdata/1480955110/480/remote/Multiplayer_Slot1_guid":
+        hash: 6b1ae3aa848a3b46db3d96f97befe96e6b5a3feb
+        size: 36
+      "C:/Program Files (x86)/Steam/userdata/1480955110/480/remote/Multiplayer_Slot1_info":
+        hash: f565a62a5e92b4b0050e7f6e73027c1471b03f52
+        size: 742
+      "C:/Program Files (x86)/Steam/userdata/1480955110/480/remote/SinglePlayer_Slot1_difficulty":
+        hash: 45e118d0563ea8581f830f46e85b60ae714faae4
+        size: 6
+      "C:/Program Files (x86)/Steam/userdata/1480955110/480/remote/SinglePlayer_Slot1_info":
+        hash: 67bf9f0cf09ca4ab654a845a4a70ea5a6d154e7e
+        size: 742
+    registry:
+      hash: ~
+    children: []

@@ -1,0 +1,27 @@
+---
+name: "Batman: Arkham Knight"
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-02-18T09:07:51.029395900Z"
+    os: windows
+    files:
+      "C:/Program Files (x86)/Steam/userdata/1480955110/208650/remote/BAK1Save0x0.sgd":
+        hash: 460f255a2b14a31216111c8a0918cc0116ebea4d
+        size: 2428928
+      "C:/Program Files (x86)/Steam/userdata/1480955110/208650/remote/BAK1Save0x1.sgd":
+        hash: 088e26c58d53a2c0a8424cbe81961493b6303ef8
+        size: 2428928
+      "C:/Program Files (x86)/Steam/userdata/1480955110/208650/remote/BAK1Save0x2.sgd":
+        hash: 5aeb0838a0aed2506d58811f6de5c9a7f1299f87
+        size: 2428928
+      "C:/Program Files (x86)/Steam/userdata/1480955110/208650/remote/profile.bin":
+        hash: 6cd614b05cac5d8bd03f11c8c813bc887cea4f1e
+        size: 69
+      "C:/Program Files (x86)/Steam/userdata/1480955110/208650/remotecache.vdf":
+        hash: 5c0f8871441e3f6d31a65a8a8fb9516d0fc06580
+        size: 1076
+    registry:
+      hash: ~
+    children: []

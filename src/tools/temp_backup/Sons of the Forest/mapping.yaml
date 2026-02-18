@@ -1,0 +1,27 @@
+---
+name: Sons of the Forest
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-02-18T09:07:46.596804300Z"
+    os: windows
+    files:
+      "C:/Users/Alucard/AppData/LocalLow/Endnight/SonsOfTheForest/Saves/76561199441220838/MultiplayerClient/0873916138/SaveData.zip":
+        hash: 40f8d19e0143aa47270e104e573251806f038ab7
+        size: 3876
+      "C:/Users/Alucard/AppData/LocalLow/Endnight/SonsOfTheForest/Saves/76561199441220838/MultiplayerClient/0873916138_backup_20251214233434.zip":
+        hash: 12ed8dcbc02801af198dba851d68700d9774ec35
+        size: 3480
+      "C:/Users/Alucard/AppData/LocalLow/Endnight/SonsOfTheForest/Saves/76561199441220838/MultiplayerClient/0873916138_backup_20251214234017.zip":
+        hash: 2470df873b9c5e4625c3cff340b38a391aa04a67
+        size: 3430
+      "C:/Users/Alucard/AppData/LocalLow/Endnight/SonsOfTheForest/Saves/76561199441220838/MultiplayerClient/0873916138_backup_20251215002118.zip":
+        hash: 2323a1718df8d0f6877807f8bb4ae271b6adca4a
+        size: 3368
+      "C:/Users/Alucard/AppData/LocalLow/Endnight/SonsOfTheForest/Saves/76561199441220838/steam_autocloud.vdf":
+        hash: f1a3da2ead9bdc99430d586c7f9a75f0af66b8c1
+        size: 53
+    registry:
+      hash: ~
+    children: []

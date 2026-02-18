@@ -1,0 +1,27 @@
+---
+name: Rocket League
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-02-18T09:08:03.523181700Z"
+    os: windows
+    files:
+      "C:/Users/Alucard/Documents/My Games/Rocket League/TAGame/Config/TAInput.ini":
+        hash: f68fe31d63819cbb51c618d602abb823fc1aa81e
+        size: 96534
+      "C:/Users/Alucard/Documents/My Games/Rocket League/TAGame/Config/TARLBot.ini":
+        hash: 3eb1592380ed0a1c5c67e74fe6f09485323bdd3b
+        size: 130
+      "C:/Users/Alucard/Documents/My Games/Rocket League/TAGame/Config/TASystemSettings.ini":
+        hash: 976d277187c10f38e9396acdd2431aba47107c8a
+        size: 31579
+      "C:/Users/Alucard/Documents/My Games/Rocket League/TAGame/SaveDataEpic/DBE_Production/4901da0103c84f07ab8681dac4f0eb0c.save":
+        hash: e5ae522631d57688ec7c597140f3f79c77807652
+        size: 676712
+      "C:/Users/Alucard/Documents/My Games/Rocket League/TAGame/SaveDataEpic/DBE_Production/4901da0103c84f07ab8681dac4f0eb0c_1.save":
+        hash: 5696aa074a8c227b7a26b22f0d8af3ac5ba239fc
+        size: 676344
+    registry:
+      hash: ~
+    children: []

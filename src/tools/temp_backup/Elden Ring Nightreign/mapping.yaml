@@ -1,0 +1,18 @@
+---
+name: Elden Ring Nightreign
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-02-18T09:07:55.105823200Z"
+    os: windows
+    files:
+      "C:/Users/Alucard/AppData/Roaming/Nightreign/76561199441220838/NR0000.sl2":
+        hash: 78396e23f9b1dff77b666e0c636172ef61516a4f
+        size: 19531312
+      "C:/Users/Alucard/AppData/Roaming/Nightreign/GraphicsConfig.xml":
+        hash: aa8ce5938ab4ba416a1839b9142943df76582374
+        size: 2598
+    registry:
+      hash: ~
+    children: []

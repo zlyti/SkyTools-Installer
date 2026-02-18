@@ -1,0 +1,340 @@
+---
+HKEY_CURRENT_USER:
+  "Software\\Crystal Dynamics\\Rise of the Tomb Raider":
+    EnableRazerChroma:
+      dword: 0
+    FirstRun:
+      dword: 0
+    SteamLanguage:
+      dword: 1
+    TextLanguage:
+      dword: 1
+    VOLanguage:
+      dword: 0
+  "Software\\Crystal Dynamics\\Rise of the Tomb Raider\\Graphics":
+    AmbientOcclusionQuality:
+      dword: 3
+    AspectRatio:
+      dword: 0
+    AsyncCompute:
+      dword: 1
+    Bloom:
+      dword: 1
+    DLSS:
+      dword: 2
+    DLSS Previous:
+      dword: 0
+    DOFQuality:
+      dword: 2
+    DynamicFoliage:
+      dword: 2
+    EnableDX12:
+      dword: 0
+    ExclusiveFullscreen:
+      dword: 1
+    FOVCorrection:
+      dword: 1000
+    FXAA:
+      dword: 0
+    FilmGrain:
+      dword: 1
+    Fullscreen:
+      dword: 1
+    FullscreenHeight:
+      dword: 1440
+    FullscreenWidth:
+      dword: 2560
+    HighPrecisionRT:
+      dword: 1
+    IsBezelCorrected:
+      dword: 0
+    LensFlares:
+      dword: 1
+    LevelOfDetail:
+      dword: 3
+    MaxFrameLatency:
+      dword: 0
+    MaxMultiGPUCount:
+      dword: 4
+    Monitor:
+      dword: 0
+    MotionBlur:
+      dword: 1
+    MultiMonitorEnabled:
+      dword: 0
+    NormalizedGammaDecodingPower:
+      dword: 500
+    RefreshRate:
+      dword: 60
+    ResolutionModifier:
+      dword: 1000
+    SMAA:
+      dword: 0
+    SSAAQuality:
+      dword: 0
+    ScreenEffects:
+      dword: 1
+    ScreenSpaceReflections:
+      dword: 1
+    ShadowQuality:
+      dword: 3
+    SoftShadowQuality:
+      dword: 3
+    SpecularReflectionQuality:
+      dword: 2
+    StereoNearSeparationMultiplier:
+      dword: 350
+    StereoPopOut:
+      dword: 5000
+    StereoSeparation:
+      dword: 22
+    Target45FPS:
+      dword: 0
+    Tessellation:
+      dword: 1
+    TextureFiltering:
+      dword: 4
+    TextureQuality:
+      dword: 3
+    TressFX:
+      dword: 1
+    TripleBuffering:
+      dword: 0
+    UserWindowHeight:
+      dword: 1080
+    UserWindowWidth:
+      dword: 1920
+    VR90FPSMode:
+      dword: 0
+    VRRenderToScreen:
+      dword: 1
+    VSync:
+      dword: 0
+    VignetteBlur:
+      dword: 1
+    WindowHeight:
+      dword: 1440
+    WindowLeft:
+      dword: 320
+    WindowMaximized:
+      dword: 0
+    WindowTop:
+      dword: 180
+    WindowWidth:
+      dword: 2560
+  "Software\\Crystal Dynamics\\Rise of the Tomb Raider\\Input":
+    Combat_Aim_1:
+      dword: 301
+    Combat_Aim_2:
+      dword: 1000
+    Combat_AlternateFire_1:
+      dword: 302
+    Combat_AlternateFire_2:
+      dword: 1000
+    Combat_Heal_1:
+      dword: 47
+    Combat_Heal_2:
+      dword: 1000
+    Combat_Melee_1:
+      dword: 33
+    Combat_Melee_2:
+      dword: 1000
+    Combat_NextWeapon_1:
+      dword: 1000
+    Combat_NextWeapon_2:
+      dword: 1000
+    Combat_PreviousWeapon_1:
+      dword: 1000
+    Combat_PreviousWeapon_2:
+      dword: 1000
+    Combat_PrimaryFire_1:
+      dword: 300
+    Combat_PrimaryFire_2:
+      dword: 1000
+    Combat_Reload_1:
+      dword: 19
+    Combat_Reload_2:
+      dword: 1000
+    Combat_Select_Bow_1:
+      dword: 2
+    Combat_Select_Bow_2:
+      dword: 1000
+    Combat_Select_Pistol_1:
+      dword: 3
+    Combat_Select_Pistol_2:
+      dword: 1000
+    Combat_Select_Rifle_1:
+      dword: 4
+    Combat_Select_Rifle_2:
+      dword: 1000
+    Combat_Select_Shotgun_1:
+      dword: 5
+    Combat_Select_Shotgun_2:
+      dword: 1000
+    Combat_ShoulderSwap_1:
+      dword: 42
+    Combat_ShoulderSwap_2:
+      dword: 1000
+    Combat_Zoom_1:
+      dword: 44
+    Combat_Zoom_2:
+      dword: 1000
+    EnableMouseSmoothing:
+      dword: 1
+    Menu_Journal_1:
+      dword: 15
+    Menu_Journal_2:
+      dword: 1000
+    Menu_Pause_1:
+      dword: 1
+    Menu_Pause_2:
+      dword: 1000
+    Player_Backward_1:
+      dword: 31
+    Player_Backward_2:
+      dword: 1000
+    Player_Forward_1:
+      dword: 17
+    Player_Forward_2:
+      dword: 1000
+    Player_Instinct_1:
+      dword: 16
+    Player_Instinct_2:
+      dword: 1000
+    Player_Interact_1:
+      dword: 18
+    Player_Interact_2:
+      dword: 1000
+    Player_Jump_1:
+      dword: 57
+    Player_Jump_2:
+      dword: 1000
+    Player_Left_1:
+      dword: 30
+    Player_Left_2:
+      dword: 1000
+    Player_Right_1:
+      dword: 32
+    Player_Right_2:
+      dword: 1000
+    Player_Roll_1:
+      dword: 46
+    Player_Roll_2:
+      dword: 1000
+    Player_Slow_1:
+      dword: 29
+    Player_Slow_2:
+      dword: 1000
+    Player_Sprint_1:
+      dword: 42
+    Player_Sprint_2:
+      dword: 1000
+  "Software\\Crystal Dynamics\\Rise of the Tomb Raider\\VR":
+    AmbientOcclusionQuality:
+      dword: 1
+    AspectRatio:
+      dword: 0
+    AsyncCompute:
+      dword: 1
+    Bloom:
+      dword: 1
+    DLSS:
+      dword: 0
+    DLSS Previous:
+      dword: 0
+    DOFQuality:
+      dword: 1
+    DynamicFoliage:
+      dword: 1
+    EnableDX12:
+      dword: 0
+    ExclusiveFullscreen:
+      dword: 0
+    FOVCorrection:
+      dword: 1000
+    FXAA:
+      dword: 1
+    FilmGrain:
+      dword: 1
+    Fullscreen:
+      dword: 1
+    FullscreenHeight:
+      dword: 1440
+    FullscreenWidth:
+      dword: 2560
+    HighPrecisionRT:
+      dword: 1
+    IsBezelCorrected:
+      dword: 0
+    LensFlares:
+      dword: 1
+    LevelOfDetail:
+      dword: 2
+    MaxMultiGPUCount:
+      dword: 4
+    Monitor:
+      dword: 0
+    MotionBlur:
+      dword: 1
+    MultiMonitorEnabled:
+      dword: 0
+    NormalizedGammaDecodingPower:
+      dword: 500
+    RefreshRate:
+      dword: 60
+    ResolutionModifier:
+      dword: 1000
+    SMAA:
+      dword: 0
+    SSAAQuality:
+      dword: 0
+    ScreenEffects:
+      dword: 1
+    ScreenSpaceReflections:
+      dword: 1
+    ShadowQuality:
+      dword: 2
+    SoftShadowQuality:
+      dword: 1
+    SpecularReflectionQuality:
+      dword: 0
+    StereoNearSeparationMultiplier:
+      dword: 350
+    StereoPopOut:
+      dword: 5000
+    StereoSeparation:
+      dword: 22
+    Target45FPS:
+      dword: 0
+    Tessellation:
+      dword: 1
+    TextureFiltering:
+      dword: 2
+    TextureQuality:
+      dword: 2
+    TressFX:
+      dword: 1
+    TripleBuffering:
+      dword: 0
+    UserWindowHeight:
+      dword: 1080
+    UserWindowWidth:
+      dword: 1920
+    VR90FPSMode:
+      dword: 0
+    VRRenderToScreen:
+      dword: 1
+    VSync:
+      dword: 1
+    VignetteBlur:
+      dword: 1
+    WindowHeight:
+      dword: 1080
+    WindowLeft:
+      dword: 320
+    WindowMaximized:
+      dword: 0
+    WindowTop:
+      dword: 180
+    WindowWidth:
+      dword: 1920

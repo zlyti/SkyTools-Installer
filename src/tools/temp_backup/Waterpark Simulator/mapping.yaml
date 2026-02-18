@@ -1,0 +1,15 @@
+---
+name: Waterpark Simulator
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-02-18T09:07:56.034452900Z"
+    os: windows
+    files:
+      "C:/Users/Alucard/AppData/LocalLow/CayPlay/WaterparkSimulator/slots/CacaPark.es3":
+        hash: ae76fba737ca58d0956b8b3b6fe5a382ba31aee2
+        size: 104592
+    registry:
+      hash: ~
+    children: []

@@ -1,0 +1,48 @@
+---
+name: Payday 2
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-02-18T09:08:05.918584Z"
+    os: windows
+    files:
+      "C:/Program Files (x86)/Steam/userdata/1480955110/218620/remote/save000.sav":
+        hash: b0a86722d1a596795abd6cace17cf8b5cd6a814c
+        size: 7432
+      "C:/Program Files (x86)/Steam/userdata/1480955110/218620/remote/save098.sav":
+        hash: 08268bb27bfab1e245d8f0b4ac9a18c88d7c8071
+        size: 327302
+      "C:/Program Files (x86)/Steam/userdata/1480955110/218620/remote/stats.sav":
+        hash: bd22d1fef9c61d6c50d1fe14c4fa3d7c52b31e39
+        size: 18
+      "C:/Program Files (x86)/Steam/userdata/1480955110/218620/remote/vr_save000.sav":
+        hash: b0a86722d1a596795abd6cace17cf8b5cd6a814c
+        size: 7432
+      "C:/Program Files (x86)/Steam/userdata/1480955110/218620/remote/vr_save098.sav":
+        hash: 08268bb27bfab1e245d8f0b4ac9a18c88d7c8071
+        size: 327302
+      "C:/Program Files (x86)/Steam/userdata/871244816/218620/remote/linux_save000.sav":
+        hash: f1f1bf025dfc58f48fc4d1b9b0dcf2e0d619c50a
+        size: 7370
+      "C:/Program Files (x86)/Steam/userdata/871244816/218620/remote/linux_save098.sav":
+        hash: 430e2c28e268aaf2178cb088499497b057ee2d7b
+        size: 197155
+      "C:/Program Files (x86)/Steam/userdata/871244816/218620/remote/save000.sav":
+        hash: f1f1bf025dfc58f48fc4d1b9b0dcf2e0d619c50a
+        size: 7370
+      "C:/Program Files (x86)/Steam/userdata/871244816/218620/remote/save098.sav":
+        hash: 430e2c28e268aaf2178cb088499497b057ee2d7b
+        size: 197155
+      "C:/Users/Alucard/AppData/Local/PAYDAY 2/renderer_settings.xml":
+        hash: 9a39a5fe9a1c539d805902fda5f73f5b06e911e2
+        size: 3995
+      "C:/Users/Alucard/AppData/Local/PAYDAY 2/saves/76561199441220838/save098.sav":
+        hash: bce6103747087ac34f999ebbfe41df817ea33d9b
+        size: 327114
+      "C:/Users/Alucard/AppData/Local/PAYDAY 2/saves/76561199441220838/vr_save098.sav":
+        hash: bce6103747087ac34f999ebbfe41df817ea33d9b
+        size: 327114
+    registry:
+      hash: ~
+    children: []
